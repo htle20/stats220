@@ -1,5 +1,4 @@
 
-![](boo_meme.png)
 
 ### Where did the idea for the meme come from?
 The motivation behind this meme is something that happens often to me. My friends are awake in a discord call at around 1AM studying together and asked if I wanted to study with them. 
