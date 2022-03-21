@@ -29,7 +29,7 @@ boo_meme <-c(row1, row2) %>%
 
 image_write(boo_meme, "boo_meme.png")
 ```
-The functions from the magick package that were used to create the meme were
+### Functions from the magick package that were used to make the meme
 1. image_read()
 2. image_scale()
 3. image_blank()
